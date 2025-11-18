@@ -2,12 +2,15 @@
 
 SurroDFT is a decentralized platform for AI-driven DFT (Density Functional Theory) molecular and material property approximation. The project combines GPU-accelerated graph neural network inference, autonomous AI agent coordination, and token incentive systems.
 
-### PoM: Proof of Materials (2025。11)
+### PoM: Proof of Materials (2025.11)
 
 SurroDFT also serves as the computational backbone for PoM (Proof of Materials) — a materials-backed decentralized value system where material performance metrics (energy density, diffusivity, stability, band structure, etc.) are mapped to token issuance and decentralized economic incentives.
 
 The PoM concept is documented in:  
 👉 PoM.md in this repository.
+
+PoM (Proof of Materials) was originally proposed as the economic and value layer of SurroDFT.  
+Whitepaper: https://github.com/MKPBattery/PoM-Whitepaper
 
 ## Features
 
